@@ -6,4 +6,4 @@ Il progetto si basa sul **Transfer Learning**, utilizzando una rete neurale pre-
 
 - Inoltre, è stato impiegato l’algoritmo **k-means** per raggruppare i personaggi in classi di volti simili e sfruttare i **centroidi** ottenuti per classificare, in base alla similarità, anche volti non presenti nel dataset.
 
-- Il file **Facerecopy.pdf** contiene una breve presentazione utilizzata durante l'esame.
+- Il file **Facerecopy.pdf** contiene una breve presentazione del progetto utilizzata durante l'esame.
